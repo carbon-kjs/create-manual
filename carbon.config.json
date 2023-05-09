@@ -1,0 +1,8 @@
+{
+  "name": "create-manual",
+  "version": "1.0.0",
+  "author": "KostromDan#1458 and Bitslayn#0001 (texture)",
+  "minecraftVersion": "1.19.2",
+  "description": "Adds guide book for Create mod. Requires PonderJS",
+  "modloaders": ["forge"]
+}
